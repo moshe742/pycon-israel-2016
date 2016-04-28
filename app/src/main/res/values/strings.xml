@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="google_maps_api_key">AIzaSyBssk81wlfgQCQ-QE12wKtDQtiPlV-nwZI</string> <!-- //release key -->
+    <string name="google_maps_api_key">AIzaSyA3q8NCpz4bcr91Zu3tSoXGCP-39Y1IgXg</string> <!-- //release key -->
 
     <string name="app_name">PyCon Israel</string>
     <string name="Sessions">Sessions</string>
